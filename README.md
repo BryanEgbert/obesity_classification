@@ -12,6 +12,6 @@ Originally from:
 
 ## Model Performance:
 **Random Forest**
-| Accuracy | Kappa |
-|----------|-------|
-| 97.14% | 96.66% | 
+| Accuracy | Kappa | Precision | Recall | | F1 Score |
+|----------|-------|--------|-----------|------------|
+| 96.19% | 95.55% | 96.16% | 96.11% | 96.1% |
