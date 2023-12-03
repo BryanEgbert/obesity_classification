@@ -11,7 +11,7 @@ Originally from:
 [1] Palechor, F. M., & de la Hoz Manotas, A. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Data in Brief, 104344.
 
 ## Model Performance:
-**Random Forest**
-| Accuracy | Kappa | Precision | Recall | | F1 Score |
-|----------|-------|--------|-----------|------------|
+**Random Forest**  
+| Accuracy | Kappa | Precision | Recall | F1 Score |
+|----------|-------|-----------|--------|------------|
 | 96.19% | 95.55% | 96.16% | 96.11% | 96.1% |
